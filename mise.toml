@@ -1,0 +1,3 @@
+[tools]
+"aqua:golangci/golangci-lint" = "v2.3.1"
+go = "latest"
