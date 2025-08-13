@@ -1,4 +1,6 @@
 {
+  "editor.fontFamily": "MonoLisa",
   "chat.agent.enabled": false,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": true
 }
